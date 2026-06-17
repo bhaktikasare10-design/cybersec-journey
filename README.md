@@ -14,7 +14,7 @@ Hi! I'm Bhakti, an EXTC student documenting my cybersecurity learning journey.
 - [ ] Network Fundamentals
 
 ### OverTheWire
-- [ ] Bandit
+- [x] Bandit
 
 ### PortSwigger
 - [ ] Web Security Academy
@@ -25,3 +25,5 @@ Hi! I'm Bhakti, an EXTC student documenting my cybersecurity learning journey.
 |--------|----------|
 | 15 Jun 2026 | Introduction to Cyber Security |
 | 15 Jun 2026 | How The Web Works |
+| 16 Jun 2026 | Learning Pre-Security|
+| 17 Jun 2026 | Intro and Started OverTheWire|
