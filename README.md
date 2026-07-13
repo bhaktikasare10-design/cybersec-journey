@@ -39,7 +39,9 @@ Hi! I'm Bhakti, an EXTC student documenting my cybersecurity learning journey.
 | 25 Jun 2026 | Revision day |
 | 26 Jun 2026 | Theoretical notes — Day 1 to Day 9 consolidated |
 | 27 Jun 2026 | Linux commands revision |
-
+| 29 Jun 2026 | Linux permissions hands-on — chmod, SUID, shell scripting |
+| 30 Jun 2026 | Log Analysis — grep, awk, sort, uniq pipeline, brute force detection |
+| 12 Jul 2026 | System Hardening — SSH config, key pair generation, server hardening |
 
 
 
